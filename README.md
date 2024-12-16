@@ -1,5 +1,7 @@
 <div align="center">
 
+<p>NOTE: THIS IS A FORK FOR PERSONAL TEST PURPOSES ONLY. THIS IS NOT MY SOFTWARE, GO TO https://github.com/informalsystems/quint FOR THE ORIGINAL.</p>
+
 <!-- Title -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./logos/quint-logo-light.png">
