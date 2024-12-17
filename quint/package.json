@@ -33,7 +33,7 @@
   "main": "dist/src/index.js",
   "typings": "dist/src/index",
   "bin": {
-    "quint": "dist/src/cli.js"
+    "quint-test": "dist/src/cli.js"
   },
   "files": [
     "README.md",
